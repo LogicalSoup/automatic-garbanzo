@@ -1,0 +1,10 @@
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\bin\Debug\Steinsgate.exe.config
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\bin\Debug\Steinsgate.exe
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\bin\Debug\Steinsgate.pdb
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.Form1.resources
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.Properties.Resources.resources
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.csproj.GenerateResource.cache
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.exe
+C:\Users\Thomas\Documents\TheHub\Programs\Steinsgate\Steinsgate\obj\Debug\Steinsgate.pdb
